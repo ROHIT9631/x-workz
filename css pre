@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>x workz</title>
+    </head>
+    <body
+        style="background-image:url(https://w0.peakpx.com/wallpaper/1004/647/HD-wallpaper-virat-kohli-batting-virat-kohli-batting-king-kohli-cricketer-sports-face-background.jpg);">
+        <div>
+            <p style="
+            color:blue;//changing text color
+            font-size:5rem;//text size increse or decrese
+            text-transform:capitalize;//all text is to capital
+            font-weight:bolder;//text make it as bold
+            text-decoration:underline;//underline the text
+            font-style:italic;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-variant:small-caps
+            ">Virat Kohli </p>
+        </div>
+        <div>
+            <span style="text-decoration:underline;
+            font-size:3rem;
+            color:rgb(0, 255, 162);
+            text-decoration-color:rgb(214, 13, 164);
+            text-decoration-style:wavy;
+            text-decoration-style:double;
+            text-decoration-thickness:10px
+            ">Rohit Sharma</span>
+        </div>
+    </body>
+</html>
