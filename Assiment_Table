@@ -6,7 +6,7 @@
     <title>Table</title>
 </head>
 <body>
-<h1>Go to page</h1><a href="file:///C:/Users/LENOVO/Desktop/web%20technolgy/web-technology/assigmnent2-home.html"><h1>Home</h1></a>
+<h1>Go to page</h1><a href="http://127.0.0.1:5500/homepage.html"><h1>Home</h1></a>
 
     <table border="1"> 
         <tr>
