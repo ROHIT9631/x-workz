@@ -1,0 +1,46 @@
+<html>
+
+<head>
+    <title>
+            facebook
+    </title>
+    <style>
+        input::placeholder{
+            font-size: 10px;
+        }
+    </style>
+</head>
+
+<body style="background-color:ghostwhite;">
+    <div style="margin-left: 44.5%;">
+        <h4 style="color: blue;">facebook</h4>
+    </div >
+    <div style=" margin-left: 38%; background-color:white; height: 9rem; width: 12rem; border-radius: 5px;">
+    <div style="padding-left: 40px; font-size: small; " >
+        <p style="padding-top: 5px;">log into facebook</p>
+    </div>
+   
+    <div style="padding-left: 8px;">
+        <form>
+            <div style="margin: 5px; ">
+                <input 
+                style="border: 1px solid whitesmoke; border-radius: 3px;" 
+                type="text" placeholder="email or phone number">
+            </div>
+            <div style="margin: 5px;">
+                <input 
+                style="border: 1px solid whitesmoke; border-radius: 3px;" 
+                type="password" placeholder="password">
+            </div>
+            <div style="margin-left: 6px;">
+                <input style=" background-color: blue; border:none ; border-radius: 5px; width:10rem ; color: white;" type="submit" value="log in ">
+            </div>
+        </form>
+    </div>
+    <div style="margin-left: 28%;">
+        <p style=" font-size: 10px; color: blue;">forget password</p>
+    </div>
+</div>
+</body>
+
+</html>
